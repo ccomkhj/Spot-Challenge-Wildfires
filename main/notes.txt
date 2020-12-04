@@ -1,0 +1,11 @@
+
+to-do:
+build simple model
+
+ways to improve model:
+normalization
+add "no fire" data to wild fire data
+add weather forecast information
+add land class information
+add Vegetation information
+
