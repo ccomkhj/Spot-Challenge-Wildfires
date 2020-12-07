@@ -9,3 +9,9 @@ add weather forecast information
 add land class information
 add Vegetation information
 
+7.Dec.2020
+On the first timestep the model has no access to previous steps, and so can't do any better than the simple linear and dense models shown earlier. it should be considered
+
+Normalizing with considering Onehot encoding. (before onehot encoding it shoyld be aplied)
+
+I should develop this model more... - 04.Dec.2020 Huijo
