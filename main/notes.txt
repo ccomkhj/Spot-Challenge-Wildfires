@@ -15,3 +15,13 @@ On the first timestep the model has no access to previous steps, and so can't do
 Normalizing with considering Onehot encoding. (before onehot encoding it shoyld be aplied)
 
 I should develop this model more... - 04.Dec.2020 Huijo
+
+<8.Dec. 2020>
+1. Study hard (tzu-chen)
+2. maybe no shuffle? (what is the role of shuffle in this code?)
+3. output size = 7x28 is correct? 
+4. How can you predict depends on date&region (Really Important)
+5. shift = 0 is correct?
+6. Data normalization (linear & gaussian)
+7. use vegetation or land data into Input
+8. understand the meaning of plot
