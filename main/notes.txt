@@ -18,10 +18,18 @@ I should develop this model more... - 04.Dec.2020 Huijo
 
 <8.Dec. 2020>
 1. Study hard (tzu-chen)
-2. maybe no shuffle? (what is the role of shuffle in this code?)
+[Done]2. maybe no shuffle? (what is the role of shuffle in this code?)
 3. output size = 7x28 is correct? 
 4. How can you predict depends on date&region (Really Important)
-5. shift = 0 is correct?
+[Done]5. shift = 0 is correct?
 6. Data normalization (linear & gaussian)
 7. use vegetation or land data into Input
 8. understand the meaning of plot
+
+<9.Dec. 2020>
+1. model's not working (always similar values)
+2. model validation stop early
+3. can't plot after adjusting model output shape
+4. is it right to change the last layer dimension as output window size???
+
+
