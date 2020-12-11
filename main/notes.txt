@@ -32,4 +32,6 @@ I should develop this model more... - 04.Dec.2020 Huijo
 3. can't plot after adjusting model output shape
 4. is it right to change the last layer dimension as output window size???
 
-
+<11.Dec.2020 Idea>
+1. Using CNN 7x7 input kernel. Then it will cover 7 all regions.
+2. Each step, slide 7 rows (not 1)
