@@ -52,3 +52,8 @@ next step: try encoder/decoder model. Research on how other people deal with seq
 3. When we join data: inner? outer? (if outer, how to treat NaN?)
 4. Figuring out how to submit in the competition site + how to produce output as the format of sample submission?
 5. When there's missing data in Wildfires, may not because there was no fire, may because we deleted the data due to NaN.
+
+
+<19. Dec. 2020>
+1. dimension redcution PCA
+2. when creating training datapoints (31days + 28days), each datapoint only contain one region (continuoes time series)
