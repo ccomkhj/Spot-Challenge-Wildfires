@@ -46,4 +46,9 @@ I should develop this model more... - 04.Dec.2020 Huijo
 "Each step, slide 7 rows" -> therefore I seperated regions for temporary model trying
 next step: try encoder/decoder model. Research on how other people deal with seq2seq prediction & missing data
 
-
+<18. Dec. 2020>
+1. Using only partial data (ex. Dec, Jan, Feb)
+2. Merging other data (vege, land)
+3. When we join data: inner? outer? (if outer, how to treat NaN?)
+4. Figuring out how to submit in the competition site + how to produce output as the format of sample submission?
+5. When there's missing data in Wildfires, may not because there was no fire, may because we deleted the data due to NaN.
