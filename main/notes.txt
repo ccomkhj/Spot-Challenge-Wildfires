@@ -57,3 +57,8 @@ next step: try encoder/decoder model. Research on how other people deal with seq
 <19. Dec. 2020>
 1. dimension redcution PCA
 2. when creating training datapoints (31days + 28days), each datapoint only contain one region (continuoes time series)
+
+<22. Dec. 2020>, Huijo
+1. Building model only for each state and for certain period.
+2. Still need to correct error. (I can run them with cheating. I will explain, if no one can solve this.
+3. I have no clue how to mege the Vege data. (I think interpolation of blank date is correct.)
