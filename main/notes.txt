@@ -62,3 +62,6 @@ next step: try encoder/decoder model. Research on how other people deal with seq
 1. Building model only for each state and for certain period.
 2. Still need to correct error. (I can run them with cheating. I will explain, if no one can solve this.
 3. I have no clue how to mege the Vege data. (I think interpolation of blank date is correct.)
+
+<23. Dec. 2020>, Huijo
+1. Lead time shouldn't be ont-hot encoded. It makes multiple values for each date&region.
