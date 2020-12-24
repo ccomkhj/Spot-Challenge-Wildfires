@@ -67,3 +67,9 @@ next step: try encoder/decoder model. Research on how other people deal with seq
 1. Lead time shouldn't be ont-hot encoded. It makes multiple values for each date&region.
 2. Built how to estimate each state
 3. Use Date as Index. so we don't have to drop the column.
+
+<24. Dec. 2020>
+1. Vege data is transfered to daily data --> interpolate them.
+2. Make all prediction for 7 Region, Submit.
+3. Dimension reduction
+4. Land data? how to use them?
